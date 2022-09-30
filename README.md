@@ -1,5 +1,4 @@
-# ATLAS-iOS-Fall-22
- Kate McCarthy Fall 22 Mobile App Dev Repo
+#Kate McCarthy Fall 22 Mobile App Dev Repo
 
 # Current Directory Structure:
 
